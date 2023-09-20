@@ -4,19 +4,19 @@
     "presences": [
         { 
             "type": "Playing", 
-            "description": "play.minescord.net" ,
+            "description": "play.snowmc.fun" ,
             "interval": 5000
         },
 
         { 
             "type": "Watching", 
-            "description": "Minecraft Java", 
+            "description": "Members and You | Minecraft Java+badrock", 
             "interval": 5000
         },
 
         {
             "type": "Listening",
-            "description": "Minecraft Spotify",
+            "description": "about You | dsc.gg/snow-mc"
             "interval": 5000
         }
     ]
