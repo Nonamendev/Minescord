@@ -1,14 +1,14 @@
 {
     "about": {
-        "server_name": "Hypixel",
-        "server_type": "java",
-        "server_adress": "play.hypixel.net",
-        "server_port": "25565"
+        "server_name": "SnowMc",
+        "server_type": "java"
+        "server_adress": "play.snowmc.fun",
+        "server_port": "19132"
     },
 
     "commands": {
         "ip": true,
-        "socials": true,
+        "socials": false,
         "status": true,
         "add_role": true,
         "announcement": true,
@@ -21,7 +21,7 @@
         "unlock": true,
         "unmute": true,
         "join": true,
-        "ticket": true,
+        "ticket": false,
         "coinflip": true,
         "curiosities": true,
         "player_body": true,
@@ -36,26 +36,26 @@
 
     "socials": {
         "youtube": {
-            "active": true,
+            "active": false,
             "link": "https://youtube.com/",
             "emoji": "📺"
         },
 
         "instagram": {
-            "active": true,
+            "active": false,
             "link": "https://instragram.com/",
             "emoji": "📸"
         },
 
         "twitter" : {
-            "active": true,
+            "active": false,
             "link": "https://twitter.com/",
             "emoji": "🐦"
         },
 
         "website": {
             "active": true,
-            "link": "https://minescord.com/",
+            "link": "https://home.snowmc.fun/ soon",
             "emoji": "🛒"
         }
     }
